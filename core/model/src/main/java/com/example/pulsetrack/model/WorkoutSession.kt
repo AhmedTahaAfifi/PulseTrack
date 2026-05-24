@@ -1,6 +1,6 @@
 package com.example.pulsetrack.model
 
-import kotlin.time.Instant
+import java.time.Instant
 
 enum class WorkoutType {
     RUN,
