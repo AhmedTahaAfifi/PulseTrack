@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PulseTrack</string>
+    <string name="title_core">Module Title</string>
 </resources>
